@@ -1,6 +1,6 @@
 # Learning resources
 
-Books for learning R
+## Books for learning R
 
 Cover | Title | Author(s)
 ---|---|---
